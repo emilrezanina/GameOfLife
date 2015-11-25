@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOfLife", "GameOfLife\GameOfLife.vcxproj", "{8774FE10-95C3-42DD-9F3C-30595F110896}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOfLifeTests", "GameOfLifeTests\GameOfLifeTests.vcxproj", "{24059AA0-F481-4303-B0EE-1C2973408C84}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTests", "..\GoogleTests\GoogleTests.vcxproj", "{3725E25E-C811-46DE-8CF9-CAD57B106191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8774FE10-95C3-42DD-9F3C-30595F110896}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8774FE10-95C3-42DD-9F3C-30595F110896}.Debug|Win32.Build.0 = Debug|Win32
+		{8774FE10-95C3-42DD-9F3C-30595F110896}.Release|Win32.ActiveCfg = Release|Win32
+		{8774FE10-95C3-42DD-9F3C-30595F110896}.Release|Win32.Build.0 = Release|Win32
+		{24059AA0-F481-4303-B0EE-1C2973408C84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{24059AA0-F481-4303-B0EE-1C2973408C84}.Debug|Win32.Build.0 = Debug|Win32
+		{24059AA0-F481-4303-B0EE-1C2973408C84}.Release|Win32.ActiveCfg = Release|Win32
+		{24059AA0-F481-4303-B0EE-1C2973408C84}.Release|Win32.Build.0 = Release|Win32
+		{3725E25E-C811-46DE-8CF9-CAD57B106191}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3725E25E-C811-46DE-8CF9-CAD57B106191}.Debug|Win32.Build.0 = Debug|Win32
+		{3725E25E-C811-46DE-8CF9-CAD57B106191}.Release|Win32.ActiveCfg = Release|Win32
+		{3725E25E-C811-46DE-8CF9-CAD57B106191}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
